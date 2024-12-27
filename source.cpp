@@ -6,3 +6,4 @@ int main() {
     int a, b;
     cout << "¬ведите два числа: ";
     cin >> a >> b;
+    cout << "—умма: " << a + b << endl;
